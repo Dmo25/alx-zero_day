@@ -1,2 +1,2 @@
 My first readme
-I hope i pass this course
+I will pass this course
